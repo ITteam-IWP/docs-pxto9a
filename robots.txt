@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-r2w2f8.syndicatealpha.ai/sitemap.xml
